@@ -41,7 +41,7 @@ module.exports = {
   dest: "./dist",
   head: [["link", { rel: "icon", href: "/img/LOGO.ico" }]],
   // 设置站点根路径
-  base: "/TechnicalNotes/",
+  base: "/",
   // 添加 github 链接
   //repo: "https://github.com/txs1992/mt-blog"
   theme: "vuepress-theme-yilia-plus",
