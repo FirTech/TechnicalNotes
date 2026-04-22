@@ -1017,7 +1017,7 @@ rpm -e --nodeps jdk_ # _:版本  强制删除
 rpm -ivh rpm包
 ```
 
-![img](./img/捕获1619058512330.png)
+![img](./img/捕获1619058512330.PNG)
 
 配置环境变量：`/etc/profile` 在文件的最后增加Java的配置
 
