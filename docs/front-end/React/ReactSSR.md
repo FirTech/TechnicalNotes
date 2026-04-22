@@ -18,7 +18,7 @@
 
 ### 认识 SSR 与 同构
 
-![SSR](./img/ssr.png)
+![SSR](./img/SSR.png)
 
 **SSR**
 
